@@ -13,7 +13,7 @@ export default function Home() {
                 </h1>
 
                 <p className="text-base sm:text-lg md:text-xl text-gray-700 mb-6 max-w-2xl">
-                    I've built two user interfaces — one replicates the original design provided in the assignment, and the other is a modern version I crafted with my own design approach. <a href=" https://pearlthoughts-my.sharepoint.com/:o:/p/suraj/ElmuzmMXgvBMltlvXX9Q5F0Bn-A_5GOQT1i3-4BTS2wDnA?e=NW37Sjhttps://pearlthoughts-my.sharepoint.com/:o:/p/suraj/ElmuzmMXgvBMltlvXX9Q5F0Bct1z0BMWCesCDlgowLDwCw?e=4Ru4Xj"
+                    I&apos;ve built two user interfaces — one replicates the original design provided in the assignment, and the other is a modern version I crafted with my own design approach. <a href=" https://pearlthoughts-my.sharepoint.com/:o:/p/suraj/ElmuzmMXgvBMltlvXX9Q5F0Bn-A_5GOQT1i3-4BTS2wDnA?e=NW37Sjhttps://pearlthoughts-my.sharepoint.com/:o:/p/suraj/ElmuzmMXgvBMltlvXX9Q5F0Bct1z0BMWCesCDlgowLDwCw?e=4Ru4Xj"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-blue-600 underline hover:text-blue-800 transition"

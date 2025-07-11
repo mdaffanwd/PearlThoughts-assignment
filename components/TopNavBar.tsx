@@ -1,11 +1,9 @@
 'use client'
 
-import { FaUserCircle, FaBars } from 'react-icons/fa';
+import { FaUserCircle } from 'react-icons/fa';
 import { FiLogOut } from 'react-icons/fi';
-import { useState } from 'react';
 
 export default function TopNavBar() {
-    const [isOpen, setIsOpen] = useState(false);
 
     return (
         <header className="sticky top-0 bg-red-600 text-white shadow-md max-w-full ">

@@ -5,7 +5,7 @@ import PrivateQualifications from "@/my-attempt-files/components/PrivateQualific
 import GroupQualifications from "@/my-attempt-files/components/GroupQualifications";
 import ScheduleGrid from "@/my-attempt-files/components/ScheduleGrid";
 
-export default function TeacherProfilePage({ params }: { params: { id: string } }) {
+export default function TeacherProfilePage() {
 
   const teacher = mockTeacher;
 
